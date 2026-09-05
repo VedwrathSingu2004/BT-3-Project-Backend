@@ -1,1 +1,0 @@
-# car-rental-service-platform
